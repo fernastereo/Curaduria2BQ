@@ -1,0 +1,97 @@
+﻿h2
+{
+    font-family:Verdana;
+    font-size:12pt;
+    font-weight:bold;
+    margin-bottom:20px;
+    margin-left:30px;
+}
+#contenedor, p
+{
+    font-family:Verdana;
+    font-size:10pt;
+}
+#izquierda
+{
+    float:left;
+    width:40%;
+}
+#derechaq
+{
+    border:1px solid black;
+}
+.cmdCon
+{
+    font-weight:bold;
+    color:#FFFFFF;
+    background-color:#555555;
+    border-style:solid;
+    border-color:#FFFFFF;
+    border-width:1px;
+    float:left;
+    padding:3px 15px 3px 15px;
+    display:block;
+    margin: 23px Auto 0px 10px;
+    width:150px;
+}
+p
+{
+    margin-left:20px;
+}
+.stiloLic
+{
+    margin:10px 0 10px 40px;
+    width:280px;
+}
+.stiloEstrato
+{
+    margin:10px 0 10px 40px;
+    width:130px;
+}
+#campos
+{
+    margin:10px 0 20px 10px;
+}
+.cmdCon2
+{
+    font-weight:bold;
+    color:#FFFFFF;
+    background-color:#555555;
+    border-style:solid;
+    border-color:#FFFFFF;
+    border-width:1px;
+    float:left;
+    padding:3px 15px 3px 15px;
+    display:block;
+    margin: 23px Auto 0px 30px;
+    width:150px;
+}
+
+.GridTramites
+{
+    font-family:Verdana;
+    font-size:10pt;
+    width:100%;
+    border: 1px solid #000000;
+    background:#faf4f9;
+    margin-bottom:10px;
+    margin-top:10px;
+}
+.EstiloCboGridTramites
+{
+    font-family:Verdana;
+    font-size:9pt;
+    width:100%;
+}
+.EstiloImgsGrid
+{
+    margin:2px 0 2px 10px;
+}
+.EstiloFooterTramitesCmd
+{
+    width:25px;
+}
+.AlignColDer
+{
+    text-align:right;
+}

@@ -1,0 +1,49 @@
+﻿#resultado
+{
+	/*border:1px solid red;*/
+    margin-top:20px;
+    margin-left:40px;
+    font-size:10pt;  
+}
+
+.lblResultado
+{
+    font-family:Verdana;
+    margin-left:20px;
+    margin-bottom:10px;
+}
+
+#datos
+{
+    border:1px solid black;
+    margin-bottom:20px;
+}
+#datos p
+{
+    padding-left:10px;
+    display:inline;
+    width:30%;
+    float:left;
+}
+.dtl
+{
+    margin-top:20px;
+    width:80%;
+}
+.item
+{
+    font-family:Verdana;
+    /*background-color:#faf4f9;*/
+    padding-top:5px;
+    padding-bottom:5px;
+    border-bottom:1px solid black;
+    border-right:1px solid black;
+}
+.item2
+{
+    font-family:Verdana;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-bottom:1px solid black;
+    border-right:1px solid black;
+}
