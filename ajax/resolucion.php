@@ -16,9 +16,9 @@
               <tr><td>Dirección:</td><td>" . $row["direccion"] . "</td></tr>
               <tr><td>Resolución N°</td><td>" . $row["resolucion"] . "</td></tr>
               <tr><td>Fecha Resol:</td><td>" . $row["fecharesol"] . "</td></tr>
-              <tr><td></td><td><a href=" . $row["archivo"] . ">Ver Resolucion</a></td></tr>";
+              <tr><td></td><td><a href=https://resoluciones.s3.us-east-2.amazonaws.com/2bq/" . $row["archivo"] . ">Ver Resolucion</a></td></tr>";
   }
-  //https://resoluciones.s3.us-east-2.amazonaws.com/2bq/0002.pdf
+  //https://resoluciones.s3.us-east-2.amazonaws.com/2bq/resol/0102.pdf
   $temp .= "</table>";
 
   echo $temp;
